@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">fishing</string>
+
+    <string name="face_1">Start the adventure</string>
+
+    <string name="fail_1">Time is over. Try again</string>
+    <string name="fail_2">main menu</string>
+    <string name="fail_3">Try again</string>
+
+    <string name="go_1">instructions</string>
+    <string name="go_2">Evaluation</string>
+    <string name="go_3">exit</string>
+
+    <string name="pass_1">Well done you have successfully completed the stage</string>
+    <string name="pass_2">menu</string>
+    <string name="pass_3">again</string>
+    <string name="pass_4">next</string>
+
+    <string name="show1_1">next</string>
+    <string name="show1_2">In the next stages you have to choose the right taste for the fish before starting to play .....</string>
+
+    <string name="show2_1">Remember the right bait to catch each fish before the end of time</string>
+
+    <string name="step_1">Welcome to the fishing game                In this fun game you have to catch the fish by clicking on the fish before fish escape                   But you have to catch the fish you need at each stage to get 10 points for each fish             If you catch the wrong fish you will lose 5 points                        You must collect a certain number of points in each stage before the end of time</string>
+
+
+    <string name="sms1_1">Do you want to exit the application?</string>
+    <string name="sms1_2">yes</string>
+    <string name="sms1_3">No</string>
+
+    <string name="sms2_1">Do you want to get out of the stage</string>
+    <string name="sms2_3">Continue</string>
+    <string name="sms2_4">exit</string>
+
+    <string name="sms4_1">Do you want to return to the main interface?</string>
+    <string name="sms4_2">Yes</string>
+    <string name="sms4_3">No</string>
+    <string name="sms3">Skip the previous stages first</string>
+
+    <string name="show3_1">At this stage the fish you want to catch will change constantly so you should look at the bar at the top of the screen constantly</string>
+    <string name="show3_2">Catch the fish by clicking on it to collect points You must catch the fish shown in the bar at the top of the screen to get 10 points If you catch another fish will lose 5 points</string>
+
+    <string name="loak">Skip the previous stages first</string>
+
+</resources>

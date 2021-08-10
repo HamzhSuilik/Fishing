@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">صيد السمك</string>
+    <string name="face_1">إبدأ المغامرة</string>
+    <string name="fail_1">لقد انتهى الوقت حاول مجدداً</string>
+    <string name="fail_2">القائمة الرئيسية</string>
+    <string name="fail_3">حاول مجدداً</string>
+    <string name="go_1">تعليمات</string>
+    <string name="go_2">تقييم</string>
+    <string name="go_3">خروج</string>
+
+    <string name="pass_1">"أحسنت لقد أنجزت المهمة بنجاح  "</string>
+    <string name="pass_2">القائمة</string>
+    <string name="pass_4">التالي</string>
+    <string name="pass_3" >إعادة</string>
+    <string name="show1_2">في المراحل القادمة عليك إختيار الطعم المناسب للسمك </string>
+    <string name="show1_1">التالي</string>
+    <string name="show2_1">عليك تذكر الطعم المناسب لصيد كل سمكة قبل نهاية الوقت المحدد</string>
+    <string name="step_1">" مرحباً بك في لعبة صيد السمك                      في هذه اللعبة الممتعة عليك صيد السمك بالنقر على السمكة قبل أن تهرب                لكن عليك صيد نوع السمك المطلوب في كل مرحلة لتحصل على 10 نقاط عن كل سمكة                   في حال اصطدت السمكة الخاطئة ستخسر 5 نقاط                  عليك جمع عدد معين من النقاط في كل مرحلة قبل نهاية الوقت                   مع التقدم في المراحل تزداد المهمة صعوبة و إثارة . "</string>
+    <string name="sms1_1">هل تريد الخروج من التطبيق</string>
+    <string name="sms1_2">تعم</string>
+    <string name="sms1_3">لا</string>
+    <string name="sms2_1" >هل تريد الخروج من المرحلة</string>
+
+    <string name="sms2_3" >متابعة</string>
+    <string name="sms2_4">خروج</string>
+    <string name="sms3">عليك تخطي المراحل السابقة أولا</string>
+    <string name="sms4_1">هل تريد لعودة إلى الواجهة الرئيسية</string>
+    <string name="sms4_2">نعم</string>
+    <string name="sms4_3">لا</string>
+    <string name="show3_2">" قم بصيد السمك بالنقر عليه لتتمكن من جمع النقاط          يجب أن تصيد السمكة الموضحة في الشريط الموجود أعلى الشاشة لتحصل على 10 نقاط أما في حال قمت بصيد سمكة أخرى ستخسر 5 نقاط "</string>
+    <string name="show3_1">"في هذه المرحلة ستتغير السمكة المطلوب صيدها بالستمرار لذا يجب أن تنظر إلى الشريط الموجود في أعلى الشاشة بالستمرار "</string>
+    <string name="loak">عليك تخطي المراحل السابقة أولا</string>
+</resources>
